@@ -1,12 +1,28 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Flutter development at Rehletna, building mobile applications and working on travel-tech features, APIs, and scalable app architecture.<br><br>👥 I’m looking to collaborate on<br>Flutter mobile apps, travel-tech projects, and products involving B2C/B2B platforms, booking systems, and APIs.<br><br>🤝 I’m looking for help with<br>Becoming a stronger Software Engineer, especially in backend concepts, system architecture, and designing scalable production applications.<br><br>🌱 I’m currently learning<br>Flutter & Dart, Clean Architecture, Firebase, state management, REST APIs, backend integration, and software engineering.<br><br>💬 Ask me about<br>Flutter, Dart, Firebase, Clean Architecture, Cubit/State Management, APIs, and building travel & tourism mobile apps.<br><br>⚡ Fun fact<br>I started with Flutter, but my goal is to grow beyond just being a Flutter Developer and become a well-rounded Software Engineer. 🚀
+## 💫 About Me
 
+- 🔭 **Current Focus:** Flutter Developer at **Rehletna**, architecting scalable travel-tech mobile apps & APIs.
+- 🎯 **Areas of Expertise:** Clean Architecture, BLoC/Cubit, Offline Persistence (SQLite), and RESTful Integration.
+- 🤝 **Open to Collaborate:** Mobile projects, B2C/B2B platforms, and booking/travel systems.
+- 🌱 **Growth Goal:** Expanding into backend architecture and system design to build end-to-end scalable applications.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Dk274z53j/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/omarr-ahmeed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omar.ahmedd.dev@gmail.com) 
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Xamarin](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Airbnb](https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white)
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks:**
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+**Architecture & State Management:**
+![BLoC/Cubit](https://img.shields.io/badge/BLoC%2FCubit-blue?style=flat)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-green?style=flat)
+
+**Database & Backend Integration:**
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-red?style=flat)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=0mar-Ahmed2025&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=0mar-Ahmed2025&theme=dark&hide_border=false)<br/>
@@ -23,5 +39,12 @@
 
 ---
 [![](https://komarev.com/ghpvc/?username=0mar-Ahmed2025&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0mar-Ahmed2025&show_icons=true&theme=dark&hide_border=true" alt="Omar's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0mar-Ahmed2025&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
+</p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
