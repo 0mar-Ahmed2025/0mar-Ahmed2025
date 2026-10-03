@@ -2,56 +2,56 @@
 
 ### Flutter Developer | Mobile App Developer | Aspiring Software Engineer
 
-I'm a Flutter Developer focused on building clean, responsive, and user-friendly mobile applications.
+I’m a Flutter developer focused on building clean, responsive, and user-friendly mobile applications.
 
-I'm currently working on **Rehletna**, a travel-tech platform, where I work with Flutter, APIs, app architecture, and real-world product features.
+I’m currently working on Rehletna, a travel-tech platform, where I build features with Flutter, REST APIs, app architecture, and real-world product flows.
 
-My long-term goal is to grow beyond Flutter development and become a well-rounded **Software Engineer**.
+My long-term goal is to grow beyond mobile development and become a well-rounded software engineer who can contribute across the full product lifecycle.
 
 ---
 
 ## 🚀 About Me
 
-- 👨‍💻 Currently working as a **Flutter Developer**
-- 📱 Building mobile applications with **Flutter & Dart**
-- 🏗️ Interested in **Clean Architecture** and scalable application design
-- 🔌 Working with **REST APIs** and backend integrations
-- 🔥 Learning and working with **Firebase**
-- 🧠 Improving my **software engineering fundamentals**
-- 🌍 Interested in **Travel Tech, B2C/B2B platforms, booking systems, and digital products**
+- 👨‍💻 Currently working as a Flutter Developer
+- 📱 Building mobile apps with Flutter and Dart
+- 🏗️ Interested in clean architecture and scalable application design
+- 🔌 Working with REST APIs and backend integrations
+- 🔥 Learning and working with Firebase
+- 🧠 Improving my software engineering fundamentals
+- 🌍 Interested in travel tech, B2C/B2B platforms, booking systems, and digital products
 - 📚 I learn best by building real projects and solving practical problems
 
 ---
 
-## 🔭 I'm Currently Working On
+## 🔭 What I'm Working On
 
-**Rehletna Mobile App**
+### Rehletna Mobile App
 
-Working on Flutter features for a travel-tech platform, including:
+I’m working on Flutter features for a travel-tech platform, including:
 
 - Tour and package experiences
-- API integration
-- Data and domain models
-- Clean Architecture
+- API integration and data handling
+- Domain and data models
+- Clean architecture patterns
 - State management
 - Responsive mobile UI
 - Booking and travel-related product flows
 
 ---
 
-## 🌱 I'm Currently Learning
+## 🌱 Currently Learning
 
 - Flutter & Dart
 - Clean Architecture
 - Cubit / State Management
 - REST APIs & Dio
 - Firebase
-- Local Storage & Caching
-- Secure Storage
+- Local storage and caching
+- Secure storage
 - Backend fundamentals
-- Software Architecture
-- System Design
-- General Software Engineering
+- Software architecture
+- System design
+- General software engineering
 
 ---
 
@@ -100,15 +100,15 @@ Flutter
 
 ### ✈️ Beauty & Dreams
 
-A Flutter travel & tourism application based on the Beauty and Dreams platform.
+A Flutter travel and tourism application built for the Beauty & Dreams platform.
 
 **Highlights:**
 - Flutter
 - Feature-based architecture
 - Arabic / English localization
-- Dark / Light mode
-- Onboarding
-- Destinations & packages
+- Dark / light mode
+- Onboarding flow
+- Destinations and packages
 - VIP services
 - Visa information
 - WhatsApp integration
@@ -144,7 +144,7 @@ A travel-tech mobile application focused on travel products and booking experien
 - REST APIs
 - Dio
 - Local Storage
-- Building travel & tourism mobile applications
+- Building travel and tourism mobile apps
 - My journey from Flutter Developer toward Software Engineering
 
 ---
@@ -180,12 +180,14 @@ A travel-tech mobile application focused on travel products and booking experien
 ## 📫 Connect With Me
 
 <p>
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Dk274z53j/)
+  <a href="https://www.facebook.com/share/1Dk274z53j/">
+    <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
   <a href="https://github.com/0mar-Ahmed2025">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://www.linkedin.com/in/omarr-ahmeed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
@@ -193,10 +195,10 @@ A travel-tech mobile application focused on travel products and booking experien
 
 ## ⚡ Fun Fact
 
-I started my journey with Flutter, but I'm not planning to stop there.
+I started my journey with Flutter, but I’m not planning to stop there.
 
-**The goal is to become a Software Engineer who can understand the whole picture — from the mobile UI to the architecture, APIs, backend, and the product itself. 🚀**
+My goal is to become a software engineer who understands the full picture — from the mobile UI to the architecture, APIs, backend, and product itself.
 
 ---
 
-⭐ If you find any of my projects useful, feel free to star the repository!
+⭐ If you find any of my projects useful, feel free to star the repository.
