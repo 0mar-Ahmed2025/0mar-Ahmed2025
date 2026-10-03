@@ -180,6 +180,7 @@ A travel-tech mobile application focused on travel products and booking experien
 ## 📫 Connect With Me
 
 <p>
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1Dk274z53j/)
   <a href="https://github.com/0mar-Ahmed2025">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
